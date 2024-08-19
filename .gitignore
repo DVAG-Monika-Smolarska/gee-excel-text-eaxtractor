@@ -1,0 +1,9 @@
+/.venv/
+/.venv/bin/
+/.venv/lib/
+/.venv/.gitignore
+/.venv/.Python
+/.venv/pyvenv.cfg
+/gee_text_blocks.json
+/gee_text_blocks.xlsx
+.idea
